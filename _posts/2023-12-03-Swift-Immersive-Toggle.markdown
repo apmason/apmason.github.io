@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "VisionOS Immersive Toggling"
-date:   2023-12-01 14:02:19 -0800
+title:  "VisionOS Design Patterns"
+date:   2023-12-03 14:02:19 -0800
 categories: jekyll update
 ---
 With the advent of SwiftUI and now visionOS, new paradigms for app development are being formed. Below is a pattern that I believe will become quite standard. 
